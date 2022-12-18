@@ -98,4 +98,4 @@
 <br/>  
 
 ----
-<div align="center">Credits:<a href="https://facebook.com/syedmaasif" target="_blank">Syed Asif</a></div>
+<div align="center">Credits: <a href="https://facebook.com/syedmaasif" target="_blank">Syed Asif</a></div>
