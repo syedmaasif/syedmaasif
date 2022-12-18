@@ -7,6 +7,10 @@
   
 
 ### I'm Syed Asif,<br><br>😍 A Level-2 Freelancer<br><br>🎨 Graphics Designer <br><br>🚀 Digital Marketer and <br><br>👨‍💻 Flutter Developer <br><br>💹 Working remotely since 2019 as a Freelancer  
+
+<br/>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=syedmaasif&&style=flat-square)  
   
 <br/>
 
@@ -21,8 +25,6 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   <br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=syedmaasif&&style=flat-square)  
   
 
 <br/>  
