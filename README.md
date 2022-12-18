@@ -13,7 +13,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=syedmaasif&&style=flat-square)  
   
 
-- 🔭 I’m currently the working at [Code Prisma](http://codeprisma.com/) (Software Company in Mardan)  
+- 🔭 I’m currently the working at [Code Prisma](http://codeprisma.com/) <b>(Software Company in Mardan)</b>  
   
 
 - 🌱 Apart from that, I am working as an App Store Optimizer on Fiverr  
