@@ -6,8 +6,9 @@
 ## Welcome to my Profile  
   
 
-### I'm Syed Asif,<br><br>😍 A Level-2 Freelancer<br><br>🎨 Graphics Designer <br><br>🚀 Digital Marketer and <br><br>👨‍💻 Flutter Developer working remotely since 2019 💹  
+### I'm Syed Asif,<br><br>😍 A Level-2 Freelancer<br><br>🎨 Graphics Designer <br><br>🚀 Digital Marketer and <br><br>👨‍💻 Flutter Developer <br><br>Working remotely since 2019 as a Freelancer💹  
   
+<br/>
 
 - 🔭 I’m currently the working at [Code Prisma](http://codeprisma.com/) (Software Company in Mardan)  
   
